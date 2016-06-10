@@ -1,2 +1,2 @@
-# test_repo
+# test-repo
 Repo for Coursera stuff
